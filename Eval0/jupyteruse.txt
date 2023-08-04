@@ -1,0 +1,15 @@
+Run > Search/Type > Jupyter > 
+It opens jupyter notebook.
+-----------------------------------------------
+Click the new button on top right corner > Select Python3 - 
+It will open new notebook
+-----------------------------------------------
+
+To upload the csv , file -> Click Upload button in the top right corner and 
+select the file ( After selecting click upload button).
+
+-----------------------------------------------------
+To read the csv file...
+
+data = =pd.read_csv('filename.csv')
+----------------------------------------------------------------
